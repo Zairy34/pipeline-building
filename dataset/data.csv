@@ -1,0 +1,97 @@
+conversation_id,turn_id,role,audio_file,text
+4,1,caller,01_greeting.mp3 - [Greeting and introduction],
+4,2,customer,,Hello?
+4,3,caller,"02_reason_for_call.mp3 - [Explain it's about stock market opportunities, ask for 27 seconds]",
+4,4,customer,,I can't hear you very well.
+4,5,caller,14_cant_hear_clearly.mp3 - [Ask if they can hear now],
+4,6,customer,,It's still fuzzy.
+4,7,caller,14_cant_hear_clearly.mp3 - [Ask if they can hear now],
+4,8,customer,,"Okay, I can hear you now."
+4,9,caller,15_now_hear.mp3 - [Confirm they can hear and continue],
+4,10,customer,,"Yes, go on."
+4,11,caller,04_company_intro.mp3 - [Brief company introduction],
+4,12,customer,,"Okay, I'm interested."
+4,13,caller,05_follow_stocks.mp3 - [Ask if they follow stocks],
+4,14,customer,,"Yes, I do."
+4,15,caller,07_join_whatsapp.mp3 - [Invite to join WhatsApp group for market insights],
+4,16,customer,,Sounds good.
+4,17,caller,"10_show_interest.mp3 - [If interested, provide number to join]",
+4,18,customer,,I'm 52 years old.
+4,19,caller,13_thanks_for_joining.mp3 - [Thank them for joining],
+5,1,caller,01_greeting.mp3 - [Greeting and introduction],
+5,2,customer,,Hello.
+5,3,caller,"02_reason_for_call.mp3 - [Explain it's about stock market opportunities, ask for 27 seconds]",
+5,4,customer,,How did you get my number?
+5,5,caller,16_how_contacted.mp3 - [Explain how we got their contact information],
+5,6,customer,,"Okay, but I'm not sure about this."
+5,7,caller,04_company_intro.mp3 - [Brief company introduction],
+5,8,customer,,I'm not sure I trust this.
+5,9,caller,17_not_robot.mp3 - [Clarify it's a real person (Zaid) calling],
+5,10,customer,,"Alright, go on."
+5,11,caller,05_follow_stocks.mp3 - [Ask if they follow stocks],
+5,12,customer,,"Yes, I do."
+5,13,caller,07_join_whatsapp.mp3 - [Invite to join WhatsApp group for market insights],
+5,14,customer,,I'm not sure.
+5,15,caller,08_whatsapp_benefits.mp3 - [Explain benefits of joining the WhatsApp group],
+5,16,customer,,"Okay, I'll join."
+5,17,caller,"10_show_interest.mp3 - [If interested, provide number to join]",
+5,18,customer,,I'm 28 years old.
+5,19,caller,13_thanks_for_joining.mp3 - [Thank them for joining],
+6,1,caller,01_greeting.mp3 - [Greeting and introduction],
+6,2,customer,,Hello.
+6,3,caller,"02_reason_for_call.mp3 - [Explain it's about stock market opportunities, ask for 27 seconds]",
+6,4,customer,,"Okay, tell me more."
+6,5,caller,04_company_intro.mp3 - [Brief company introduction],
+6,6,customer,,Sounds interesting.
+6,7,caller,05_follow_stocks.mp3 - [Ask if they follow stocks],
+6,8,customer,,"Yes, I do."
+6,9,caller,07_join_whatsapp.mp3 - [Invite to join WhatsApp group for market insights],
+6,10,customer,,What kind of information do you share?
+6,11,caller,18_market_update.mp3 - [Brief current market update to spark interest],
+6,12,customer,,"Okay, I'm interested."
+6,13,caller,"10_show_interest.mp3 - [If interested, provide number to join]",
+6,14,customer,,I'm 60 years old.
+6,15,caller,13_thanks_for_joining.mp3 - [Thank them for joining],
+7,1,caller,01_greeting.mp3 - [Greeting and introduction],
+7,2,customer,,Hello.
+7,3,caller,"02_reason_for_call.mp3 - [Explain it's about stock market opportunities, ask for 27 seconds]",
+7,4,customer,,Who are you?
+7,5,caller,17_not_robot.mp3 - [Clarify it's a real person (Zaid) calling],
+7,6,customer,,"Okay, go on."
+7,7,caller,04_company_intro.mp3 - [Brief company introduction],
+7,8,customer,,What kind of investment options do you offer?
+7,9,caller,19_investment_options.mp3 - [Overview of investment options offered],
+7,10,customer,,I'm interested.
+7,11,caller,05_follow_stocks.mp3 - [Ask if they follow stocks],
+7,12,customer,,"Yes, I do."
+7,13,caller,07_join_whatsapp.mp3 - [Invite to join WhatsApp group for market insights],
+7,14,customer,,"Okay, I'll join."
+7,15,caller,"10_show_interest.mp3 - [If interested, provide number to join]",
+7,16,customer,,I'm 42 years old.
+7,17,caller,13_thanks_for_joining.mp3 - [Thank them for joining],
+8,1,caller,01_greeting.mp3 - [Greeting and introduction],
+8,2,customer,,Hello.
+8,3,caller,"02_reason_for_call.mp3 - [Explain it's about stock market opportunities, ask for 27 seconds]",
+8,4,customer,,"Okay, I'm listening."
+8,5,caller,04_company_intro.mp3 - [Brief company introduction],
+8,6,customer,,I have a few questions.
+8,7,caller,20_customer_questions.mp3 - [Invite customer to ask any questions],
+8,8,customer,,"Okay, I'll join."
+8,9,caller,05_follow_stocks.mp3 - [Ask if they follow stocks],
+8,10,customer,,"Yes, I do."
+8,11,caller,07_join_whatsapp.mp3 - [Invite to join WhatsApp group for market insights],
+8,12,customer,,I'm 35 years old.
+8,13,caller,13_thanks_for_joining.mp3 - [Thank them for joining],
+9,1,caller,01_greeting.mp3 - [Greeting and introduction],
+9,2,customer,,Hello.
+9,3,caller,"02_reason_for_call.mp3 - [Explain it's about stock market opportunities, ask for 27 seconds]",
+9,4,customer,,Sounds interesting.
+9,5,caller,04_company_intro.mp3 - [Brief company introduction],
+9,6,customer,,Can I schedule a consultation?
+9,7,caller,21_schedule_consultation.mp3 - [Offer to schedule a detailed consultation],
+9,8,customer,,"Okay, I'll join."
+9,9,caller,05_follow_stocks.mp3 - [Ask if they follow stocks],
+9,10,customer,,"Yes, I do."
+9,11,caller,07_join_whatsapp.mp3 - [Invite to join WhatsApp group for market insights],
+9,12,customer,,I'm 58 years old.
+9,13,caller,13_thanks_for_joining.mp3 - [Thank them for joining],
