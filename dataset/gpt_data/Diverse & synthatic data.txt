@@ -1,0 +1,801 @@
+
+Conversation 1: Curious but Cautious
+Caller: greeting.mp3
+Customer: Hello
+Caller: reason_for_call.mp3
+Customer: Yes, sure
+Caller: company_intro.mp3
+Customer: Yes, go ahead
+Caller: follow_stocks.mp3
+Customer: Yes, I do
+Caller: join_whatsapp.mp3
+Customer: Is there any cost to join?
+Caller: free_to_join.mp3
+Customer: Okay
+Caller: show_interest.mp3
+Customer: I'm 36 years old.
+Caller: thanks_for_joining.mp3
+
+Conversation 2: Not Interested Initially
+Caller: greeting.mp3
+Customer: Hi
+Caller: reason_for_call.mp3
+Customer: I'm busy, can you call back later?
+Caller: customer_busy.mp3
+Customer: Call me back tomorrow afternoon.
+Caller: reschedule_call.mp3
+
+Conversation 3: No Previous Stock Knowledge
+Caller: greeting.mp3
+Customer: Hello
+Caller: reason_for_call.mp3
+Customer: Okay
+Caller: company_intro.mp3
+Customer: What is this about?
+Caller: follow_stocks.mp3
+Customer: No, I don’t.
+Caller: stock_education.mp3
+Customer: Alright, I’m interested.
+Caller: join_whatsapp.mp3
+Customer: Is it free?
+Caller: free_to_join.mp3
+Customer: Okay, I’ll join.
+Caller: show_interest.mp3
+Customer: I'm 45 years old.
+Caller: thanks_for_joining.mp3
+
+Conversation 4: No Previous Stock Knowledge
+Caller: greeting.mp3
+Customer: Hello, who's this?
+Caller: reason_for_call.mp3
+Customer: Alright, go ahead.
+Caller: company_intro.mp3
+Customer: I see. What exactly do you do?
+Caller: follow_stocks.mp3
+Customer: No, I don't really follow stocks.
+Caller: stock_education.mp3 
+Customer: That sounds interesting. Tell me more.
+Caller: join_whatsapp.mp3
+Customer: A WhatsApp group? Is there a cost?
+Caller: free_to_join.mp3
+Customer: Okay, I might give it a try.
+Caller: gather_info.mp3
+Customer: I'm 40 and looking to save for retirement.
+Caller: show_interest.mp3
+Customer: Got it, I've written down the number.
+Caller: thanks_for_joining.mp3
+
+Conversation 5: Busy Customer
+Caller: greeting.mp3
+Customer: Hi, I'm a bit busy right now.
+Caller: customer_busy.mp3
+Customer: Can you call back tomorrow afternoon?
+Caller: reschedule_call.mp3
+Customer: Yes, that works. Thanks.
+Caller: end_call.mp3
+
+Conversation 6: Interested but Cautious
+Caller: greeting.mp3
+Customer: Hello there.
+Caller: reason_for_call.mp3
+Customer: Okay, I'm listening.
+Caller: company_intro.mp3
+Customer: Interesting. What makes your company different?
+Caller: market_update.mp3
+Customer: I see. I do follow stocks a bit.
+Caller: join_whatsapp.mp3
+Customer: A WhatsApp group? How does that work?
+Caller: whatsapp_benefits.mp3
+Customer: Sounds good, but I'm not sure yet.
+Caller: investment_options.mp3
+Customer: That's helpful. I might be interested.
+Caller: gather_info.mp3
+Customer: I'm 35 and looking to grow my wealth.
+Caller: show_interest.mp3
+Customer: Alright, I'll join the group and see how it goes.
+Caller: thanks_for_joining.mp3
+
+Conversation 7: Simple and Positive
+Caller: greeting.mp3
+Customer: Hello there.
+Caller: reason_for_call.mp3
+Customer: Sure, go ahead.
+Caller: company_intro.mp3
+Customer: Okay, I'm listening.
+Caller: follow_stocks.mp3
+Customer: Yes, I do follow stocks.
+Caller: join_whatsapp.mp3
+Customer: That sounds interesting.
+Caller: show_interest.mp3
+Customer: I'm 42 years old.
+Caller: thanks_for_joining.mp3
+
+Conversation 8: Technical Issues
+Caller: greeting.mp3
+Customer: Hello?
+Caller: reason_for_call.mp3
+Customer: I can't hear you clearly.
+Caller: cant_hear_clearly.mp3
+Customer: It's better now.
+Caller: now_hear.mp3
+Customer: Yes, I can hear you.
+Caller: company_intro.mp3
+Customer: Alright, what's this about?
+Caller: follow_stocks.mp3
+Customer: No, I don't follow stocks.
+Caller: stock_education.mp3
+Customer: I see, tell me more.
+Caller: join_whatsapp.mp3
+Customer: Maybe another time.
+Caller: not_interested.mp3
+
+Conversation 9: Skeptical Customer
+Caller: greeting.mp3
+Customer: Who is this?
+Caller: who_speaking.mp3
+Customer: Okay, what do you want?
+Caller: reason_for_call.mp3
+Customer: Fine, make it quick.
+Caller: company_intro.mp3
+Customer: How did you get my number?
+Caller: how_contacted.mp3
+Customer: I see. What were you saying about stocks?
+Caller: follow_stocks.mp3
+Customer: A little bit, yes.
+Caller: join_whatsapp.mp3
+Customer: What's the catch?
+Caller: free_to_join.mp3
+Customer: I'll think about it.
+Caller: gather_info.mp3
+
+Conversation 10: Enthusiastic but Busy
+Caller: greeting.mp3
+Customer: Hi there!
+Caller: reason_for_call.mp3
+Customer: Oh, I'm actually in a meeting right now.
+Caller: customer_busy.mp3
+Customer: Can you call back in an hour?
+Caller: reschedule_call.mp3
+Customer: Perfect, talk to you then.
+
+Conversation 11: Compliance Focused
+Caller: greeting.mp3
+Customer: Hello, who's calling?
+Caller: who_speaking.mp3
+Customer: Alright, what's this about?
+Caller: reason_for_call.mp3
+Customer: Okay, go on.
+Caller: company_intro.mp3
+Customer: Are you regulated?
+Caller: compliance_disclaimer.mp3
+Customer: I see. What exactly are you offering?
+Caller: follow_stocks.mp3
+Customer: Yes, I invest regularly.
+Caller: join_whatsapp.mp3
+Customer: Sounds good. How do I join?
+Caller: show_interest.mp3
+Customer: I'm 55 years old.
+Caller: thanks_for_joining.mp3
+
+Conversation 12: Quick Rejection
+Caller: greeting.mp3
+Customer: Yes?
+Caller: reason_for_call.mp3
+Customer: Not interested, goodbye.
+Caller: not_interested.mp3
+
+Conversation 13: Curious Newcomer
+Caller: greeting.mp3
+Customer: Hello there.
+Caller: reason_for_call.mp3
+Customer: Sure, I have a moment.
+Caller: company_intro.mp3
+Customer: Interesting. Tell me more.
+Caller: follow_stocks.mp3
+Customer: No, I've never invested before.
+Caller: stock_education.mp3
+Customer: That sounds intriguing. How can I learn more?
+Caller: join_whatsapp.mp3
+Customer: Is it really free?
+Caller: free_to_join.mp3
+Customer: Okay, I'll give it a try.
+Caller: gather_info.mp3
+Customer: I'm 30 years old.
+Caller: thanks_for_joining.mp3
+
+Conversation 14: Concerned about Privacy
+Caller: greeting.mp3
+Customer: Hello, who's this?
+Caller: who_speaking.mp3
+Customer: How did you get my information?
+Caller: how_contacted.mp3
+Customer: I see. What's this about?
+Caller: reason_for_call.mp3
+Customer: Alright, go on.
+Caller: company_intro.mp3
+Customer: Is this data sharing safe?
+Caller: compliance_disclaimer.mp3
+Customer: Okay, what exactly are you offering?
+Caller: follow_stocks.mp3
+Customer: Yes, I do invest.
+Caller: join_whatsapp.mp3
+Customer: I'm interested, but worried about privacy.
+Caller: whatsapp_benefits.mp3
+Customer: Alright, I'll give it a try.
+Caller: gather_info.mp3
+
+Conversation 15: Experienced Investor
+Caller: greeting.mp3
+Customer: Good morning.
+Caller: reason_for_call.mp3
+Customer: I'm listening.
+Caller: company_intro.mp3
+Customer: I'm familiar with your company.
+Caller: follow_stocks.mp3
+Customer: Yes, I've been investing for years.
+Caller: investment_experience.mp3
+Customer: I'm interested in advanced strategies.
+Caller: join_whatsapp.mp3
+Customer: What kind of insights do you provide?
+Caller: whatsapp_benefits.mp3
+Customer: Sounds good. How do I join?
+Caller: show_interest.mp3
+Customer: I'm 50 years old.
+Caller: thanks_for_joining.mp3
+
+Conversation 16: Interrupted Call
+Caller: greeting.mp3
+Customer: Hello?
+Caller: reason_for_call.mp3
+Customer: Sorry, can you hold for a second?
+Caller: cant_hear_clearly.mp3
+Customer: I'm back, what were you saying?
+Caller: now_hear.mp3
+Customer: Yes, go ahead.
+Caller: company_intro.mp3
+Customer: Okay, and?
+Caller: follow_stocks.mp3
+Customer: A little bit, yes.
+Caller: join_whatsapp.mp3
+Customer: I'm not sure about joining groups.
+Caller: whatsapp_benefits.mp3
+Customer: Maybe another time.
+Caller: not_interested.mp3
+
+Conversation 17: Curious but Cautious
+Caller: greeting.mp3
+Customer: Hi there.
+Caller: reason_for_call.mp3
+Customer: Okay, I'm listening.
+Caller: company_intro.mp3
+Customer: Interesting. What's your background?
+Caller: who_speaking.mp3
+Customer: I see. And what exactly do you offer?
+Caller: follow_stocks.mp3
+Customer: Yes, I do follow stocks.
+Caller: join_whatsapp.mp3
+Customer: What kind of information will I receive?
+Caller: whatsapp_benefits.mp3
+Customer: Sounds good, but is there any commitment?
+Caller: free_to_join.mp3
+Customer: Alright, I'll give it a try.
+Caller: gather_info.mp3
+Customer: I'm 38 years old.
+Caller: thanks_for_joining.mp3
+
+Conversation 18: Quick and Simple
+Caller: greeting.mp3
+Customer: Hello.
+Caller: reason_for_call.mp3
+Customer: Sure, go ahead.
+Caller: company_intro.mp3
+Customer: Okay.
+Caller: follow_stocks.mp3
+Customer: Yes, I do.
+Caller: join_whatsapp.mp3
+Customer: Sounds interesting.
+Caller: show_interest.mp3
+Customer: I'm 45.
+Caller: thanks_for_joining.mp3
+
+Conversation 19: Not a Robot
+Caller: greeting.mp3
+Customer: Is this a recorded message?
+Caller: not_robot.mp3
+Customer: Oh, okay. What's this about?
+Caller: reason_for_call.mp3
+Customer: I see. Go on.
+Caller: company_intro.mp3
+Customer: Alright, and?
+Caller: follow_stocks.mp3
+Customer: No, I don't really follow stocks.
+Caller: stock_education.mp3
+Customer: That's interesting. How can I learn more?
+Caller: join_whatsapp.mp3
+Customer: Sure, I'd like to join.
+Caller: gather_info.mp3
+Customer: I'm 33 years old.
+Caller: thanks_for_joining.mp3
+
+Conversation 20: Technical Difficulties
+Caller: greeting.mp3
+Customer: Hello? The line is breaking up.
+Caller: cant_hear_clearly.mp3
+Customer: It's a bit better now.
+Caller: now_hear.mp3
+Customer: Yes, I can hear you. What's this about?
+Caller: reason_for_call.mp3
+Customer: Okay, go ahead.
+Caller: company_intro.mp3
+Customer: I see. And what do you offer?
+Caller: follow_stocks.mp3
+Customer: Not really, no.
+Caller: stock_education.mp3
+Customer: That sounds interesting.
+Caller: join_whatsapp.mp3
+Customer: Sure, I'd like to learn more.
+Caller: gather_info.mp3
+Customer: I'm 29 years old.
+Caller: thanks_for_joining.mp3
+
+Conversation 21: Busy Professional
+Caller: greeting.mp3
+Customer: Yes, hello.
+Caller: reason_for_call.mp3
+Customer: I'm in a meeting. Can you call back?
+Caller: customer_busy.mp3
+Customer: Try again tomorrow afternoon.
+Caller: reschedule_call.mp3
+Customer: Yes, that works. Goodbye for now.
+
+Conversation 22: Skeptical but Interested
+Caller: greeting.mp3
+Customer: Who is this?
+Caller: who_speaking.mp3
+Customer: How did you get my number?
+Caller: how_contacted.mp3
+Customer: I see. What's this about?
+Caller: reason_for_call.mp3
+Customer: Alright, I'm listening.
+Caller: company_intro.mp3
+Customer: Interesting. Are you regulated?
+Caller: compliance_disclaimer.mp3
+Customer: Okay. Do you have any current market insights?
+Caller: market_update.mp3
+Customer: That's useful. How can I get more of this?
+Caller: join_whatsapp.mp3
+Customer: Is there a cost involved?
+Caller: free_to_join.mp3
+Customer: Alright, I'll join.
+Caller: gather_info.mp3
+Customer: I'm 41 years old.
+Caller: thanks_for_joining.mp3
+
+Conversation 23: Quick and Positive
+Caller: greeting.mp3
+Customer: Hello there.
+Caller: reason_for_call.mp3
+Customer: Sure, go ahead.
+Caller: company_intro.mp3
+Customer: Sounds interesting.
+Caller: follow_stocks.mp3
+Customer: Yes, I do.
+Caller: join_whatsapp.mp3
+Customer: I'd love to join.
+Caller: gather_info.mp3
+Customer: I'm 35 years old.
+Caller: thanks_for_joining.mp3
+
+Conversation 24: Unsure but Curious
+Caller: greeting.mp3
+Customer: Hi, who's this?
+Caller: who_speaking.mp3
+Customer: Okay, what's this about?
+Caller: reason_for_call.mp3
+Customer: I'm listening.
+Caller: company_intro.mp3
+Customer: I'm not familiar with stocks.
+Caller: stock_education.mp3
+Customer: That's interesting. How can I learn more?
+Caller: join_whatsapp.mp3
+Customer: Is it free to join?
+Caller: free_to_join.mp3
+Customer: Alright, I'll give it a try.
+Caller: gather_info.mp3
+Customer: I'm 27 years old.
+Caller: thanks_for_joining.mp3
+
+Conversation 25: Experienced Investor
+Caller: greeting.mp3
+Customer: Hello.
+Caller: reason_for_call.mp3
+Customer: I'm interested. Go on.
+Caller: company_intro.mp3
+Customer: What's your track record?
+Caller: investment_experience.mp3
+Customer: I've been investing for 20 years.
+Caller: join_whatsapp.mp3
+Customer: What kind of analysis do you provide?
+Caller: whatsapp_benefits.mp3
+Customer: Sounds good. I'm in.
+Caller: gather_info.mp3
+Customer: I'm 52 years old.
+Caller: thanks_for_joining.mp3
+
+Conversation 26: Not Interested
+Caller: greeting.mp3
+Customer: Yes?
+Caller: reason_for_call.mp3
+Customer: I'm not interested in stocks.
+Caller: not_interested.mp3
+Customer: No, thank you. Goodbye.
+Caller: end_call.mp3
+
+Conversation 27: Compliance Focused
+Caller: greeting.mp3
+Customer: Hello, who am I speaking with?
+Caller: who_speaking.mp3
+Customer: What's the purpose of this call?
+Caller: reason_for_call.mp3
+Customer: I see. Are you regulated?
+Caller: compliance_disclaimer.mp3
+Customer: Good to know. What services do you offer?
+Caller: investment_options.mp3
+Customer: Interesting. How can I join?
+Caller: join_whatsapp.mp3
+Customer: Alright, I'm interested.
+Caller: gather_info.mp3
+Customer: I'm 39 years old.
+Caller: thanks_for_joining.mp3
+
+Conversation 28: Technical Issues
+Caller: greeting.mp3
+Customer: Hello? I can barely hear you.
+Caller: cant_hear_clearly.mp3
+Customer: It's a bit better now.
+Caller: now_hear.mp3
+Customer: Yes, I can hear you. What's this about?
+Caller: reason_for_call.mp3
+Customer: Okay, go on.
+Caller: company_intro.mp3
+Customer: I see. Do you have any current market insights?
+Caller: market_update.mp3
+Customer: That's useful. How can I get more information?
+Caller: join_whatsapp.mp3
+Customer: Sure, I'd like to join.
+Caller: gather_info.mp3
+Customer: I'm 31 years old.
+Caller: thanks_for_joining.mp3
+
+Conversation 29: Busy but Interested
+Caller: greeting.mp3
+Customer: Hi, I'm a bit busy. Can you make it quick?
+Caller: reason_for_call.mp3
+Customer: Okay, I'm listening.
+Caller: company_intro.mp3
+Customer: Sounds interesting. What's the next step?
+Caller: follow_stocks.mp3
+Customer: Yes, I do follow stocks.
+Caller: join_whatsapp.mp3
+Customer: Sure, I'll join. What do I need to do?
+Caller: show_interest.mp3
+Customer: Got it. I'm 43 years old.
+Caller: thanks_for_joining.mp3
+
+Conversation 30: Skeptical
+Caller: greeting.mp3
+Customer: Who is this?
+Caller: who_speaking.mp3
+Customer: How did you get my number?
+Caller: how_contacted.mp3
+Customer: I see. What exactly are you selling?
+Caller: reason_for_call.mp3
+Customer: I'm not sure about this.
+Caller: compliance_disclaimer.mp3
+Customer: Alright, what kind of returns can I expect?
+Caller: investment_options.mp3
+Customer: I'll think about it.
+Caller: feedback_request.mp3
+Customer: It was informative, thanks.
+Caller: end_call.mp3
+
+Conversation 31: Quick Positive Response
+Caller: greeting.mp3
+Customer: Hello there.
+Caller: reason_for_call.mp3
+Customer: Yes, I'm interested in stocks.
+Caller: follow_stocks.mp3
+Customer: I follow them regularly.
+Caller: join_whatsapp.mp3
+Customer: Sounds great, sign me up!
+Caller: gather_info.mp3
+Customer: I'm 37 years old.
+Caller: thanks_for_joining.mp3
+
+Conversation 32: Need More Information
+Caller: greeting.mp3
+Customer: Hi, what's this about?
+Caller: reason_for_call.mp3
+Customer: I see. Can you tell me more about your company?
+Caller: company_intro.mp3
+Customer: Interesting. What kind of investment options do you offer?
+Caller: investment_options.mp3
+Customer: That sounds good. How can I stay updated?
+Caller: join_whatsapp.mp3
+Customer: Sure, I'd like to join.
+Caller: gather_info.mp3
+Customer: I'm 46 years old.
+Caller: thanks_for_joining.mp3
+
+Conversation 33: Straight to the Point
+Caller: greeting.mp3
+Customer: Hello.
+Caller: reason_for_call.mp3
+Customer: Okay, go ahead.
+Caller: company_intro.mp3
+Customer: I see. What's the offer?
+Caller: join_whatsapp.mp3
+Customer: Alright, I'll join.
+Caller: gather_info.mp3
+Customer: I'm 33.
+Caller: thanks_for_joining.mp3
+
+Conversation 34: Cautious Investor
+Caller: greeting.mp3
+Customer: Yes, who's calling?
+Caller: who_speaking.mp3
+Customer: What's this about?
+Caller: reason_for_call.mp3
+Customer: I'm listening.
+Caller: follow_stocks.mp3
+Customer: Yes, but I'm cautious with my investments.
+Caller: compliance_disclaimer.mp3
+Customer: That's good to know. What services do you offer?
+Caller: investment_options.mp3
+Customer: Interesting. How can I learn more?
+Caller: join_whatsapp.mp3
+Customer: I'll think about it.
+Caller: gather_info.mp3
+Customer: I'm 49 years old.
+Caller: end_call.mp3
+
+Conversation 35: Not Now
+Caller: greeting.mp3
+Customer: Hi there.
+Caller: reason_for_call.mp3
+Customer: Sorry, I'm in the middle of something.
+Caller: customer_busy.mp3
+Customer: Can you call back next week?
+Caller: reschedule_call.mp3
+Customer: Yes, that works. Thanks.
+
+Conversation 36: Eager Beginner
+Caller: greeting.mp3
+Customer: Hello!
+Caller: reason_for_call.mp3
+Customer: Oh, stocks? I've always wanted to learn about those!
+Caller: follow_stocks.mp3
+Customer: No, but I'm very interested.
+Caller: stock_education.mp3
+Customer: That sounds great! How can I start?
+Caller: join_whatsapp.mp3
+Customer: Absolutely, sign me up!
+Caller: gather_info.mp3
+Customer: I'm 25 years old.
+Caller: thanks_for_joining.mp3
+
+Conversation 37: Experienced and Skeptical
+Caller: greeting.mp3
+Customer: Yes, hello.
+Caller: reason_for_call.mp3
+Customer: I've heard this before. What makes you different?
+Caller: company_intro.mp3
+Customer: Interesting. What's your track record?
+Caller: investment_experience.mp3
+Customer: I've been investing for 30 years.
+Caller: market_update.mp3
+Customer: That's a fair analysis. What's your offer?
+Caller: join_whatsapp.mp3
+Customer: I'll give it a try.
+Caller: gather_info.mp3
+Customer: I'm 58 years old.
+Caller: thanks_for_joining.mp3
+
+Conversation 38: Quick Rejection
+Caller: greeting.mp3
+Customer: Who is this?
+Caller: who_speaking.mp3
+Customer: Not interested, thanks.
+Caller: not_interested.mp3
+
+Conversation 39: Curious about Process
+Caller: greeting.mp3
+Customer: Hello there.
+Caller: reason_for_call.mp3
+Customer: Okay, I'm listening.
+Caller: company_intro.mp3
+Customer: How does this work exactly?
+Caller: investment_options.mp3
+Customer: I see. And how do I get started?
+Caller: join_whatsapp.mp3
+Customer: Sounds good. What information do you need from me?
+Caller: gather_info.mp3
+Customer: I'm 42 years old.
+Caller: thanks_for_joining.mp3
+
+Conversation 40: Technical Difficulties
+Caller: greeting.mp3
+Customer: Hello? The line is very bad.
+Caller: cant_hear_clearly.mp3
+Customer: That's a bit better. Who is this?
+Caller: who_speaking.mp3
+Customer: Okay, what's this call about?
+Caller: reason_for_call.mp3
+Customer: I see. Go on.
+Caller: follow_stocks.mp3
+Customer: Yes, I do follow stocks.
+Caller: join_whatsapp.mp3
+Customer: Sure, I'm interested.
+Caller: gather_info.mp3
+Customer: I'm 39 years old.
+Caller: thanks_for_joining.mp3
+
+Conversation 41: Compliance Focused
+Caller: greeting.mp3
+Customer: Hello, who am I speaking with?
+Caller: who_speaking.mp3
+Customer: Are you regulated?
+Caller: compliance_disclaimer.mp3
+Customer: Good. What services do you offer?
+Caller: investment_options.mp3
+Customer: Interesting. Any current market insights?
+Caller: market_update.mp3
+Customer: That's helpful. How can I stay informed?
+Caller: join_whatsapp.mp3
+Customer: Alright, I'll join.
+Caller: gather_info.mp3
+Customer: I'm 51 years old.
+Caller: thanks_for_joining.mp3
+
+Conversation 42: Quick and Positive
+Caller: greeting.mp3
+Customer: Hi there!
+Caller: reason_for_call.mp3
+Customer: Sounds interesting!
+Caller: follow_stocks.mp3
+Customer: Yes, I love investing!
+Caller: join_whatsapp.mp3
+Customer: Count me in!
+Caller: gather_info.mp3
+Customer: I'm 36 years old.
+Caller: thanks_for_joining.mp3
+
+Conversation 43: Curious but Hesitant
+Caller: greeting.mp3
+Customer: Hello, who's this?
+Caller: who_speaking.mp3
+Customer: I see. What's this about?
+Caller: reason_for_call.mp3
+Customer: Stocks? I don't know much about them.
+Caller: stock_education.mp3
+Customer: That's interesting. Is it risky?
+Caller: compliance_disclaimer.mp3
+Customer: I understand. How can I learn more?
+Caller: join_whatsapp.mp3
+Customer: Maybe. What kind of information will I get?
+Caller: whatsapp_benefits.mp3
+Customer: Alright, I'll give it a try.
+Caller: gather_info.mp3
+Customer: I'm 32 years old.
+Caller: thanks_for_joining.mp3
+
+Conversation 44: Busy Professional
+Caller: greeting.mp3
+Customer: Yes, hello. I'm in a hurry.
+Caller: reason_for_call.mp3
+Customer: Can you make it quick?
+Caller: company_intro.mp3
+Customer: Okay, and?
+Caller: follow_stocks.mp3
+Customer: Yes, when I have time.
+Caller: join_whatsapp.mp3
+Customer: Sounds useful. How do I join?
+Caller: show_interest.mp3
+Customer: Got it. I'm 45.
+Caller: thanks_for_joining.mp3
+
+Conversation 45: Skeptical Investor
+Caller: greeting.mp3
+Customer: Who am I speaking with?
+Caller: who_speaking.mp3
+Customer: How did you get my number?
+Caller: how_contacted.mp3
+Customer: I see. What's your offer?
+Caller: reason_for_call.mp3
+Customer: What makes you different from others?
+Caller: company_intro.mp3
+Customer: Interesting. What's your track record?
+Caller: investment_experience.mp3
+Customer: I'll need to think about it.
+Caller: gather_info.mp3
+Customer: I'm 53 years old.
+Caller: end_call.mp3
+
+Conversation 46: Quick Rejection
+Caller: greeting.mp3
+Customer: Yes?
+Caller: reason_for_call.mp3
+Customer: Not interested, thanks.
+Caller: not_interested.mp3
+
+Conversation 47: Technical Issues
+Caller: greeting.mp3
+Customer: Hello? I can barely hear you.
+Caller: cant_hear_clearly.mp3
+Customer: That's better. What's this about?
+Caller: reason_for_call.mp3
+Customer: I see. Go on.
+Caller: company_intro.mp3
+Customer: Interesting. What services do you offer?
+Caller: investment_options.mp3
+Customer: Sounds good. How can I stay updated?
+Caller: join_whatsapp.mp3
+Customer: Sure, I'll join.
+Caller: gather_info.mp3
+Customer: I'm 38 years old.
+Caller: thanks_for_joining.mp3
+
+Conversation 48: Experienced Investor
+Caller: greeting.mp3
+Customer: Hello there.
+Caller: reason_for_call.mp3
+Customer: I'm quite familiar with stocks.
+Caller: follow_stocks.mp3
+Customer: Yes, I've been investing for years.
+Caller: investment_experience.mp3
+Customer: What's your perspective on the current market?
+Caller: market_update.mp3
+Customer: Insightful. How can I get more of these analyses?
+Caller: join_whatsapp.mp3
+Customer: Sounds valuable. I'm in.
+Caller: gather_info.mp3
+Customer: I'm 57 years old.
+Caller: thanks_for_joining.mp3
+
+Conversation 49: Initially Skeptical, Then Interested
+Caller: greeting.mp3
+Customer: Yes, who's this?
+Caller: who_speaking.mp3
+Customer: How did you get my number?
+Caller: how_contacted.mp3
+Customer: I see. What's this about?
+Caller: reason_for_call.mp3
+Customer: Stock market? I'm not sure about this.
+Caller: follow_stocks.mp3
+Customer: Well, I follow a bit, but I'm no expert.
+Caller: stock_education.mp3
+Customer: That's actually quite interesting. Tell me more.
+Caller: investment_options.mp3
+Customer: I didn't know there were so many options. Is this risky?
+Caller: compliance_disclaimer.mp3
+Customer: I appreciate your honesty. How can I learn more?
+Caller: join_whatsapp.mp3
+Customer: A WhatsApp group? That sounds convenient.
+Caller: whatsapp_benefits.mp3
+Customer: Alright, you've convinced me. I'll join.
+Caller: gather_info.mp3
+Customer: I'm 44 years old.
+Caller: thanks_for_joining.mp3
+
+Conversation 50: Direct and Efficient
+Caller: greeting.mp3
+Customer: Hello.
+Caller: reason_for_call.mp3
+Customer: Go ahead.
+Caller: company_intro.mp3
+Customer: What's your offer?
+Caller: join_whatsapp.mp3
+Customer: Okay, I'm interested.
+Caller: gather_info.mp3
+Customer: 41 years old.
+Caller: thanks_for_joining.mp3
